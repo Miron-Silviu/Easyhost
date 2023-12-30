@@ -1,4 +1,4 @@
-name: superhost
+name: Easyhost
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows 
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout Repository
@@ -24,4 +24,6 @@ jobs:
     - name: Run Tests
       run: npm test
 
-    
+    - name: Deploy to Production
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      run: ./deploy.sh
