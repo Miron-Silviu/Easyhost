@@ -1,0 +1,19 @@
+name: Easyhost
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Run Script
+      run: |
+        chmod +x your-script.sh
+        ./your-script.sh
