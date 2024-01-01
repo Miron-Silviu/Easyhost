@@ -339,3 +339,20 @@ a {
         font-size: 1.6rem;
     }
 }
+
+/* Media */
+.media {
+    display: flex;
+}
+
+.media__title {
+    margin-top: 0;
+}
+
+.media__body {
+    margin: 0 2rem;
+}
+
+.media__jmage {
+    margin-top: 1rem;
+}
