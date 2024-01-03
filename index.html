@@ -15,80 +15,53 @@
     </head>
 
     <body>
-        <section class="block block--dark block--skewed-right block-showcase">
-            <header class="block__header">
-                <h2>User-friendly Control Panel</h2>
+        <section class="block">
+            <header block__header>
+                <h2 class="block__header">what our Customer are Saying</h2>
+                <p  class="testimonial__description">
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                    Rem, recusandae.
+                </p>
             </header>
-            <div class="container grid grid--1x2">
-                <picture class="block-showcase__image">
-                    <source
-                        type="image/webp"
-                        srcset="./images/ipad/.webp 1x, ./images/ipad@2x.webp 2x"
-                    />
-                    <source
-                        type="image/png"
-                        srcset="./images/ipad/.png 1x, ./images/ipad@2x.png 2x"
-                    />
-                    <img src="./images/ipad.png" alt="" />
-                </picture>
-                <ul class="list">
-                    <li>
-                        <div class="media">
-                            <div class="media__image">
-                            </svg><svg class="icon icon--primary">
-                                <use xlink:href="images/sprite.svg#computer"></use>
+            <div class="container">
+                <div class="card testimonial">
+                    <div class="grid grid--1x2">
+                        <div class="testimonial__image">
+                            <img
+                                src="./images/testimonial.jpg"
+                                alt="A happy, smiling customer"
+                            />
+                            <span class="icon-container icon-container--accent ">
+                            </svg><svg class="icon icon--white icon--small">
+                                <use xlink:href="images/sprite.svg#quotes"></use>
                               </svg>
-                            </div>
-                            <div class="media__body">
-                                <h3 class="media__title">Easy Start & Managed Updates</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                                    Sunt at dolores aspernatur quae minus delectus! Harum fugiat
-                                    dolor est quisquam voluptate. Ullam accusamus placeat
-                                    voluptates saepe eum exercitationem culpa eius!
-                                </p>
-                            </div>
+                            </span>
                         </div>
-                    </li>
-                    <li>
-                        <div class="media">
-                            <div class="media__image">
-                            </svg><svg class="icon icon--primary">
-                                <use xlink:href="images/sprite.svg#growth"></use>
-                              </svg>
-                            </div>
-                            <div class="media__body">
-                                <h3 class="media__title">Staging GIT & WP-CLI</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                                    Sunt at dolores aspernatur quae minus delectus! Harum fugiat
-                                    dolor est quisquam voluptate. Ullam accusamus placeat
-                                    voluptates saepe eum exercitationem culpa eius!
-                                </p>
-                            </div>
-                        </div>
-                        </body>
-                    </li>
-                    <li>
-                        <div class="media">
-                            <div class="media__image">
-                            </svg><svg class="icon icon--primary">
-                                <use xlink:href="images/sprite.svg#wordpress"></use>
-                              </svg>
-                            </div>
-                            <div class="media__body">
-                                <h3 class="media__title">Dynamic Caching & More</h3>
-                                <p>
-                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                                    Sunt at dolores aspernatur quae minus delectus! Harum fugiat
-                                    dolor est quisquam voluptate. Ullam accusamus placeat
-                                    voluptates saepe eum exercitationem culpa eius!
-                                </p>
-                            </div>
-                        </div>
-                        </body>
-                    </li>
-                </ul>
+                
+                        <blockquote class="quote">
+                            <p class="quote__text">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum
+                                consectetur tenetur sed voluptatum similique iusto doloribus
+                                neque quod labore. Eos?
+                            </p>
+                            <footer>
+                                <div class="media">
+                                    <div class="media__image quote__line">
+                                    </svg><svg class="icon icon--primary ">
+                                        <use xlink:href="images/sprite.svg#line"></use>
+                                      </svg>
+                                    </div>
+                                    <div class="media__body">
+                                        <h3 class="media__title quote__author">John Smith</h3>
+                                        <p class="quote__organizition">
+                                          ABC Company
+                                        </p>
+                                    </div>
+                                </div>
+                            </footer>
+                        </blockquote>
+                    </div>
+                </div>
             </div>
         </section>
         <script src="js/main.js"></script>
