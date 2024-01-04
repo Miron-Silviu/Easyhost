@@ -1,4 +1,4 @@
-# Easyhost
+
 
 ## Table of contents
 
@@ -10,7 +10,6 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 
-
 ## Overview
 
 In this project was build a cloud hosting website.
@@ -21,7 +20,7 @@ The website is fully responsive build with mobile first in mind and is apply Obj
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://miron-silviu.github.io/Easyhost/)
+- Live Site URL: [https://miron-silviu.github.io/Easyhost/]
 
 ## My process
 
@@ -45,3 +44,4 @@ I learn how to use variables in css. The most important concept was Object Orien
 
 - [Example resource 1](oge.me) - This helped me to create links for metadata . I really liked this pattern and will use it going forward.
 - [Example resource 2](https://bennettfeely.com/clippy/) - This is an amazing article which helped me finally understand clipping. I'd recommend it to anyone still learning this concept.
+
