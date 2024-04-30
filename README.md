@@ -1,14 +1,13 @@
-
-
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
 
 ## Overview
 
@@ -16,7 +15,11 @@ In this project was build a cloud hosting website.
 
 ### The challenge
 
-The website is fully responsive build with mobile first in mind and is apply Object Oriented CSS and BEM (Block Element Modifier)
+The website is fully responsive build with mobile first in mind and is apply Object Oriented CSS and BEM (Block Element Modifier).
+
+### Screenshot
+
+![alt text](image.png)
 
 ### Links
 
@@ -44,4 +47,3 @@ I learn how to use variables in css. The most important concept was Object Orien
 
 - [Example resource 1](oge.me) - This helped me to create links for metadata . I really liked this pattern and will use it going forward.
 - [Example resource 2](https://bennettfeely.com/clippy/) - This is an amazing article which helped me finally understand clipping. I'd recommend it to anyone still learning this concept.
-
