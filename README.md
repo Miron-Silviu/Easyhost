@@ -23,7 +23,7 @@ The website is fully responsive build with mobile first in mind and is apply Obj
 
 # Click the link below for live view
 
-- [LIVE] (https://miron-silviu.github.io/Easyhost/)
+- [Live](https://miron-silviu.github.io/Easyhost/)
 
 ## My process
 
