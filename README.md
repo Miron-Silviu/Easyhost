@@ -19,7 +19,7 @@ The website is fully responsive build with mobile first in mind and is apply Obj
 
 # Links
 - [CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Easyhost/)
-- 
+  
 ## Screenshot
 ![alt text](image.png)
 
