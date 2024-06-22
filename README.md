@@ -18,7 +18,7 @@ In this project was build a cloud hosting website.
 The website is fully responsive build with mobile first in mind and is apply Object Oriented CSS and BEM (Block Element Modifier).
 
 # Links
-- [CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/Easyhost/)
+- [VIEW DEMO](https://miron-silviu.github.io/Easyhost/)
   
 ## Screenshot
 ![alt text](image.png)
