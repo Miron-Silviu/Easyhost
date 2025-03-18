@@ -9,6 +9,9 @@
 - [What I learned](#what-i-learned)
 - [Useful resources](#useful-resources)
 
+# Links
+[![DEPLOYMENT](https://github.com/Miron-Silviu/Guess-my-Number/blob/main/images/Frame%201.png)](https://miron-silviu.github.io/Easyhost/)
+
 ## Overview
 
 In this project was build a cloud hosting website.
@@ -17,9 +20,6 @@ In this project was build a cloud hosting website.
 
 The website is fully responsive build with mobile first in mind and is apply Object Oriented CSS and BEM (Block Element Modifier).
 
-# Links
-- [VIEW DEMO](https://miron-silviu.github.io/Easyhost/)
-  
 ## Screenshot
 ![alt text](image.png)
 
