@@ -46,3 +46,6 @@ I learn how to use variables in css. The most important concept was Object Orien
 
 - (https://oge.me) - This helped me to create links for metadata . I really liked this pattern and will use it going forward.
 - (https://bennettfeely.com/clippy/) - This is an amazing article which helped me finally understand clipping. I'd recommend it to anyone still learning this concept.
+- - Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [Silviu Miron](https://www.frontendmentor.io/home)
+- Twitter - [Silviu Miron](https://x.com/home)
